@@ -1,1 +1,1 @@
-# arkanoid
+# Arkanoid JavaScript Game
